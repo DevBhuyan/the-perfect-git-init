@@ -15,4 +15,4 @@ git pull origin main
 git push origin main
 ```
 
-Or simply download git.sh and run it in your terminal
+Or simply download [`git.sh`](https://github.com/DevBhuyan/the-perfect-git-init/releases/download/publish/git.sh) and run it in your terminal
