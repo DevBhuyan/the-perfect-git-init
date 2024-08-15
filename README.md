@@ -1,4 +1,4 @@
-# the-perfect-git-init
+# the-perfect-git-init-doesn't exis....
 Struggling to make your first commit via the terminal? Use this template
 
 Here's your template:
